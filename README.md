@@ -9,7 +9,7 @@ LangCracker is designed to handle all your media translation needs without requi
 * **Manga & Comic Page Translator:** Built-in OCR and translation tailored for manga, manhwa, and comic book pages.
 * **Offline Audio Translator:** Transcribe and translate spoken audio in real time.
 * **100% Offline-First & Free:** Works without active internet access, keeping your media private and accessible anywhere.
-* ** Keeps Ads FAR off!** We know it's frustrating to break your movie with an ad from a subtitle translator app, so we keep them absolutely away!
+* **Keeps Ads FAR off!** We know it's frustrating to break your movie with an ad from a subtitle translator app, so we keep them absolutely away!
 
 ## 📥 How to Download & Install
 1. Go to the **[Releases](../../releases)** section on the right side of this page.
