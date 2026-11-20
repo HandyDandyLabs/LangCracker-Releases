@@ -18,9 +18,10 @@ LangCracker is designed to handle all your media translation needs without requi
 
 ## 📱 Requirements
 * **OS:** Android 10+
-* **Storage:** App and base version 100MB. [May need additional space for language models of your choice and usecases]
+* **Storage:** App and base version 100MB. [May need additional space for language models of your choice and use cases]
 
 ## 🌐 Official Links
+* **Find Us:** https://handydandylabs.github.io
 * **Uptodown:** *(Link coming soon)*
 
 ## 💌 Email (Organisation)
